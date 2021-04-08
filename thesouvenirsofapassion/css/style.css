@@ -63,10 +63,10 @@
 .main-navigation {
   color: #fff;
   display: none;
-  position: fixed;
+  position: absolute;
   height: 100%;
   width: 100%;
-  top: 0px;
+  top: 250px;
   left: 0px;
   background: #000;
   opacity: 0.9; }
