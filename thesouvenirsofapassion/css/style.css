@@ -97,6 +97,7 @@
 
 /* Navigation burger */
 .burger-container {
+  position: relative;
   cursor: pointer;
   z-index: 3; }
 
