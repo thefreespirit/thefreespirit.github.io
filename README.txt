@@ -1,6 +1,6 @@
 
 TITLE: 
-The Free Spirit Website (of course)
+L'infini des cœurs Website (of course)
 
 AUTHOR:
 DESIGNED & DEVELOPED by Free Spirit & maybeNEXT
